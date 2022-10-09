@@ -4,6 +4,7 @@ function App() {
   return (
     <div>
       <h1>My first change</h1>
+      <h2>My second change</h2>
     </div>
   );
 }
